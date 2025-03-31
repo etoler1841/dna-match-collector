@@ -1,0 +1,10 @@
+#dna-matcher {
+  font-family: Arial, sans-serif;
+  max-width: 200px;
+}
+
+button {
+  margin: 5px 0;
+  padding: 10px;
+  width: 100%;
+}
